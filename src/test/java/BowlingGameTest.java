@@ -6,4 +6,6 @@ public class BowlingGameTest {
     public void JessicaTestOne(){}
     @Test
     public void JessicaTestTwo(){}
+    @Test
+    public void lisaTestOne(){}
 }
